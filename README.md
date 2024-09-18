@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mukelangelo
-- 🌱 I’m currently learning Python and developing projects using this language
+- 🌱 I’m currently learning application development
 - 📫 How to reach me: E-mail: basovm1999@gmail.com
 -                     LinkedIn: https://www.linkedin.com/in/michael-basov-412162210/
 
